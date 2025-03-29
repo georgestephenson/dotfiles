@@ -1,0 +1,9 @@
+[user]
+	name = georgestephenson
+	email = gf.s@hotmail.com
+[credential]
+	helper = cache
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/george-stephenson/.gitignore_global
