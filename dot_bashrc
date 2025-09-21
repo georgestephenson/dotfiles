@@ -118,3 +118,6 @@ fi
 alias fd=fdfind
 alias sl=ls
 alias dc=cd
+
+# Created by `pipx` on 2025-05-21 22:00:25
+export PATH="$PATH:/home/gste/.local/bin"

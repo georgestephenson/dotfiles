@@ -1,6 +1,7 @@
 [user]
 	name = georgestephenson
 	email = gf.s@hotmail.com
+	signingkey = 47DE6DF73945A8DE6D93E0081D695B21D8618D02
 [credential]
 	helper = cache
 [alias]
